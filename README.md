@@ -1,2 +1,2 @@
 # React-Django_y_Python
- App de tareas con Django y React
+ App de tâches avec Django y React
